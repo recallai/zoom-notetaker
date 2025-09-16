@@ -6,10 +6,10 @@ This is an AI-powered meeting transcription and note-taking application that aut
 
 ## Prerequisites
 
-- Node.js 18+
-- Ngrok
-- Recall.ai API Key
-- OpenAI API Key
+1. [Node.js](https://nodejs.org/en/)
+2. [Ngrok](https://ngrok.com/docs/getting-started/)
+3. [Recall.ai API Key](https://www.recall.ai/)
+4. [OpenAI API Key](https://platform.openai.com/docs/overview)
 
 ## Installation
 
