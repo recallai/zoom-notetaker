@@ -1,6 +1,6 @@
 # Zoom Notetaker
 
-If you don't want to build a bot yourself, check out [Recall.ai](https://recall.ai)
+If you don't want to build a Zoom bot yourself, check out [Recall.ai's Zoom Bot API](https://www.recall.ai/product/meeting-bot-api/zoom). Recall.ai works across Zoom, Google Meet, Microsoft Teams and more. 
 
 This is an AI-powered meeting transcription and note-taking application that automatically joins Zoom meetings, transcribes conversations, and generates intelligent summaries using Recall.ai and OpenAI.
 
