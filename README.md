@@ -4,6 +4,10 @@ If you don't want to build a Zoom bot yourself, check out [Recall.ai's Zoom Bot 
 
 This is an AI-powered meeting transcription and note-taking application that automatically joins Zoom meetings, transcribes conversations, and generates intelligent summaries using Recall.ai and OpenAI.
 
+## Hosted Notetaker API
+If you don't want to host a notetaker from scratch, check out [Recall.ai's Notetaker API](https://www.recall.ai/blog/how-to-build-a-zoom-notetaker).
+
+
 ## Prerequisites
 
 1. [Node.js](https://nodejs.org/en/)
